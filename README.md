@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=VHAXJxcHA1k&list=PLXtTjtWmQhg1YRG0L0dIT5B22Utuja
 
 The Number One Skill You Need to Have to Become a Software Developer
 https://www.youtube.com/watch?v=vsg5P40x8xo&list=PLXtTjtWmQhg1YRG0L0dIT5B22Utujaq20&index=7
+
+-----------
